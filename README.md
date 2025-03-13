@@ -38,3 +38,8 @@
 > when the product release to the user maybe it is combined with the last stage 
 ## maintenance 
 > a feedback should constnatly gathered and the product should recive conistant update and support (fixes and new features )
+
+
+---
+
+
